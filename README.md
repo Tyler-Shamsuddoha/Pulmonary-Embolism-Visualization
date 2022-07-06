@@ -9,7 +9,8 @@ Screenshots:
 ![image](https://user-images.githubusercontent.com/79490285/177649605-d2203049-9f51-4a91-8d9a-73ac2cf4d039.png)
 
 
-![image](https://user-images.githubusercontent.com/79490285/177649691-ef7e2793-1ee2-425c-8671-c458bf740f42.png)
+![image](https://user-images.githubusercontent.com/79490285/177649907-548ba6e2-4471-4d39-8edd-85735501ec27.png)
+
 
 
 
