@@ -1,5 +1,5 @@
 # Pulmonary-Embolism-Visualization
-POST EDA dashboard created in PowerBI on a healthcare dataset, specifically pertaining to Pulmonary Embolism after 30 days of admission
+Post EDA dashboard created in PowerBI on a healthcare dataset, specifically pertaining to Pulmonary Embolism after 30 days of admission
 
 Screenshots:
 
